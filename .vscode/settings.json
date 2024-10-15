@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c7345ced-1e12-4c78-b947-35f8268ca117/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/calctestApi"
+}
