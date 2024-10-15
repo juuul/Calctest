@@ -1,0 +1,6 @@
+@Calctest_HostAddress = http://localhost:5220
+
+GET {{Calctest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
